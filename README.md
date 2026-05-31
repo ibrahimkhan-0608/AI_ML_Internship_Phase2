@@ -97,6 +97,6 @@ AI_ML_Internship_Phase2/
 
 ---
 
-## 📅 Submission Date
+##  Submission Date
 
 May 31, 2026
